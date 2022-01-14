@@ -1,0 +1,560 @@
+Thread Name:Left Bottom Thread row:8 col:8 Number:4 time:0.5345726013183594
+Thread Name:Left Bottom Thread row:8 col:7 Number:9 time:0.5345726013183594
+Thread Name:Left Bottom Thread row:8 col:4 Number:1 time:0.5345726013183594
+Thread Name:Left Bottom Thread row:8 col:3 Number:8 time:0.5345726013183594
+Thread Name:Left Bottom Thread row:8 col:2 Number:2 time:0.5345726013183594
+Thread Name:Left Bottom Thread row:8 col:0 Number:7 time:0.5345726013183594
+Thread Name:Left Bottom Thread row:7 col:6 Number:8 time:0.5345726013183594
+Thread Name:Left Bottom Thread row:7 col:5 Number:5 time:0.5345726013183594
+Thread Name:Left Bottom Thread row:7 col:3 Number:2 time:0.5345726013183594
+Thread Name:Left Bottom Thread row:7 col:2 Number:9 time:0.5345726013183594
+Thread Name:Left Bottom Thread row:7 col:0 Number:4 time:0.5345726013183594
+Thread Name:Left Bottom Thread row:6 col:8 Number:6 time:0.5345726013183594
+Thread Name:Left Bottom Thread row:6 col:7 Number:3 time:0.5345726013183594
+Thread Name:Left Bottom Thread row:6 col:5 Number:4 time:0.5345726013183594
+Thread Name:Left Bottom Thread row:6 col:4 Number:7 time:0.5345726013183594
+Thread Name:Left Bottom Thread row:6 col:1 Number:8 time:0.5345726013183594
+Thread Name:Left Bottom Thread row:5 col:8 Number:5 time:0.5345726013183594
+Thread Name:Left Bottom Thread row:5 col:7 Number:1 time:0.5345726013183594
+Thread Name:Left Bottom Thread row:5 col:5 Number:2 time:0.5345726013183594
+Thread Name:Left Bottom Thread row:5 col:4 Number:9 time:0.5345726013183594
+Thread Name:Left Bottom Thread row:5 col:3 Number:6 time:0.5345726013183594
+Thread Name:Left Bottom Thread row:5 col:2 Number:4 time:0.5345726013183594
+Thread Name:Left Bottom Thread row:5 col:1 Number:7 time:0.5345726013183594
+Thread Name:Left Bottom Thread row:4 col:8 Number:9 time:0.5345726013183594
+Thread Name:Left Bottom Thread row:4 col:6 Number:6 time:0.5345726013183594
+Thread Name:Left Bottom Thread row:4 col:5 Number:7 time:0.5345726013183594
+Thread Name:Left Bottom Thread row:4 col:4 Number:8 time:0.5345726013183594
+Thread Name:Left Bottom Thread row:4 col:3 Number:3 time:0.5345726013183594
+Thread Name:Left Bottom Thread row:4 col:2 Number:1 time:0.5345726013183594
+Thread Name:Left Bottom Thread row:4 col:0 Number:2 time:0.5345726013183594
+Thread Name:Left Bottom Thread row:3 col:7 Number:8 time:0.5345726013183594
+Thread Name:Left Bottom Thread row:3 col:6 Number:7 time:0.5345726013183594
+Thread Name:Left Bottom Thread row:3 col:5 Number:1 time:0.5345726013183594
+Thread Name:Left Bottom Thread row:3 col:4 Number:5 time:0.5345726013183594
+Thread Name:Left Bottom Thread row:3 col:3 Number:4 time:0.5345726013183594
+Thread Name:Left Bottom Thread row:3 col:1 Number:9 time:0.5345726013183594
+Thread Name:Left Bottom Thread row:3 col:0 Number:3 time:0.5156123638153076
+Thread Name:Left Bottom Thread row:2 col:4 Number:2 time:0.5156123638153076
+Thread Name:Left Bottom Thread row:2 col:3 Number:1 time:0.5156123638153076
+Thread Name:Left Bottom Thread row:2 col:1 Number:4 time:0.5156123638153076
+Thread Name:Left Bottom Thread row:2 col:0 Number:5 time:0.5156123638153076
+Thread Name:Left Bottom Thread row:1 col:5 Number:9 time:0.5156123638153076
+Thread Name:Left Bottom Thread row:1 col:3 Number:7 time:0.5156123638153076
+Thread Name:Left Bottom Thread row:1 col:2 Number:3 time:0.5156123638153076
+Thread Name:Left Bottom Thread row:0 col:5 Number:6 time:0.5156123638153076
+Thread Name:Left Bottom Thread row:0 col:4 Number:3 time:0.5156123638153076
+Thread Name:Left Bottom Thread row:0 col:1 Number:1 time:0.5156123638153076
+Thread Name:Left Bottom Thread row:0 col:0 Number:9 time:0.5156123638153076
+Thread Name:Right Upper Thread row:8 col:8 Number:1 time:0.6499154567718506
+Thread Name:Right Upper Thread row:8 col:7 Number:5 time:0.6499154567718506
+Thread Name:Right Upper Thread row:8 col:4 Number:6 time:0.6499154567718506
+Thread Name:Right Upper Thread row:8 col:3 Number:9 time:0.6499154567718506
+Thread Name:Right Upper Thread row:7 col:6 Number:9 time:0.6499154567718506
+Thread Name:Right Upper Thread row:7 col:5 Number:5 time:0.6499154567718506
+Thread Name:Right Upper Thread row:7 col:3 Number:2 time:0.6499154567718506
+Thread Name:Right Upper Thread row:6 col:8 Number:4 time:0.6499154567718506
+Thread Name:Right Upper Thread row:6 col:7 Number:7 time:0.6499154567718506
+Thread Name:Right Upper Thread row:6 col:5 Number:3 time:0.6499154567718506
+Thread Name:Right Upper Thread row:6 col:4 Number:1 time:0.6499154567718506
+Thread Name:Right Upper Thread row:5 col:8 Number:3 time:0.6499154567718506
+Thread Name:Right Upper Thread row:5 col:7 Number:9 time:0.6499154567718506
+Thread Name:Right Upper Thread row:5 col:5 Number:7 time:0.6499154567718506
+Thread Name:Right Upper Thread row:5 col:4 Number:2 time:0.6499154567718506
+Thread Name:Right Upper Thread row:5 col:3 Number:1 time:0.6499154567718506
+Thread Name:Right Upper Thread row:5 col:2 Number:6 time:0.6499154567718506
+Thread Name:Right Upper Thread row:5 col:1 Number:8 time:0.6499154567718506
+Thread Name:Right Upper Thread row:4 col:8 Number:7 time:0.6499154567718506
+Thread Name:Right Upper Thread row:4 col:6 Number:8 time:0.6499154567718506
+Thread Name:Right Upper Thread row:4 col:5 Number:9 time:0.6499154567718506
+Thread Name:Right Upper Thread row:4 col:4 Number:3 time:0.6489183902740479
+Thread Name:Right Upper Thread row:4 col:3 Number:4 time:0.6489183902740479
+Thread Name:Right Upper Thread row:4 col:2 Number:1 time:0.6489183902740479
+Thread Name:Right Upper Thread row:4 col:0 Number:2 time:0.6489183902740479
+Thread Name:Right Upper Thread row:3 col:7 Number:1 time:0.6489183902740479
+Thread Name:Right Upper Thread row:3 col:6 Number:4 time:0.6489183902740479
+Thread Name:Right Upper Thread row:3 col:5 Number:6 time:0.6489183902740479
+Thread Name:Right Upper Thread row:3 col:4 Number:8 time:0.6489183902740479
+Thread Name:Right Upper Thread row:3 col:3 Number:5 time:0.6489183902740479
+Thread Name:Right Upper Thread row:3 col:1 Number:7 time:0.6338281631469727
+Thread Name:Right Upper Thread row:3 col:0 Number:9 time:0.6338281631469727
+Thread Name:Right Upper Thread row:2 col:7 Number:4 time:0.6338281631469727
+Thread Name:Right Upper Thread row:2 col:4 Number:9 time:0.6338281631469727
+Thread Name:Right Upper Thread row:2 col:3 Number:3 time:0.6338281631469727
+Thread Name:Right Upper Thread row:2 col:1 Number:6 time:0.6338281631469727
+Thread Name:Right Upper Thread row:2 col:0 Number:5 time:0.6338281631469727
+Thread Name:Right Upper Thread row:1 col:8 Number:9 time:0.6338281631469727
+Thread Name:Right Upper Thread row:1 col:6 Number:6 time:0.6338281631469727
+Thread Name:Right Upper Thread row:1 col:5 Number:2 time:0.6338281631469727
+Thread Name:Right Upper Thread row:1 col:3 Number:7 time:0.6338281631469727
+Thread Name:Right Upper Thread row:1 col:2 Number:8 time:0.5989546775817871
+Thread Name:Right Upper Thread row:0 col:8 Number:5 time:0.5979211330413818
+Thread Name:Right Upper Thread row:0 col:6 Number:1 time:0.5979211330413818
+Thread Name:Right Upper Thread row:0 col:5 Number:8 time:0.5979211330413818
+Thread Name:Right Upper Thread row:0 col:4 Number:4 time:0.5979211330413818
+Thread Name:Right Upper Thread row:0 col:1 Number:3 time:0.5979211330413818
+Thread Name:Right Upper Thread row:0 col:0 Number:7 time:0.5979211330413818
+Thread Name:Right Bottom Thread row:8 col:8 Number:5 time:0.7155241966247559
+Thread Name:Right Bottom Thread row:8 col:7 Number:1 time:0.7155241966247559
+Thread Name:Right Bottom Thread row:8 col:4 Number:6 time:0.7155241966247559
+Thread Name:Right Bottom Thread row:8 col:3 Number:3 time:0.7155241966247559
+Thread Name:Right Bottom Thread row:8 col:2 Number:7 time:0.7155241966247559
+Thread Name:Right Bottom Thread row:8 col:0 Number:8 time:0.7155241966247559
+Thread Name:Right Bottom Thread row:7 col:6 Number:6 time:0.7155241966247559
+Thread Name:Right Bottom Thread row:7 col:5 Number:1 time:0.7155241966247559
+Thread Name:Right Bottom Thread row:7 col:3 Number:2 time:0.7155241966247559
+Thread Name:Right Bottom Thread row:7 col:2 Number:4 time:0.7155241966247559
+Thread Name:Right Bottom Thread row:7 col:0 Number:5 time:0.7155241966247559
+Thread Name:Right Bottom Thread row:6 col:8 Number:3 time:0.7155241966247559
+Thread Name:Right Bottom Thread row:6 col:7 Number:9 time:0.7155241966247559
+Thread Name:Right Bottom Thread row:6 col:5 Number:5 time:0.7155241966247559
+Thread Name:Right Bottom Thread row:6 col:4 Number:8 time:0.7155241966247559
+Thread Name:Right Bottom Thread row:6 col:1 Number:1 time:0.7155241966247559
+Thread Name:Right Bottom Thread row:5 col:8 Number:1 time:0.7155241966247559
+Thread Name:Right Bottom Thread row:5 col:7 Number:4 time:0.7155241966247559
+Thread Name:Right Bottom Thread row:5 col:5 Number:6 time:0.7155241966247559
+Thread Name:Right Bottom Thread row:5 col:4 Number:3 time:0.7155241966247559
+Thread Name:Right Bottom Thread row:5 col:3 Number:8 time:0.7155241966247559
+Thread Name:Right Bottom Thread row:5 col:2 Number:9 time:0.7155241966247559
+Thread Name:Right Bottom Thread row:5 col:1 Number:2 time:0.7155241966247559
+Thread Name:Right Bottom Thread row:4 col:8 Number:7 time:0.7155241966247559
+Thread Name:Right Bottom Thread row:4 col:6 Number:3 time:0.7155241966247559
+Thread Name:Right Bottom Thread row:4 col:5 Number:9 time:0.7155241966247559
+Thread Name:Right Bottom Thread row:4 col:4 Number:1 time:0.7155241966247559
+Thread Name:Right Bottom Thread row:4 col:3 Number:4 time:0.7155241966247559
+Thread Name:Right Bottom Thread row:4 col:2 Number:5 time:0.7155241966247559
+Thread Name:Right Bottom Thread row:4 col:0 Number:6 time:0.7155241966247559
+Thread Name:Right Bottom Thread row:3 col:7 Number:8 time:0.7155241966247559
+Thread Name:Right Bottom Thread row:3 col:6 Number:9 time:0.7155241966247559
+Thread Name:Right Bottom Thread row:3 col:5 Number:2 time:0.7155241966247559
+Thread Name:Right Bottom Thread row:3 col:4 Number:7 time:0.7155241966247559
+Thread Name:Right Bottom Thread row:3 col:3 Number:5 time:0.7155241966247559
+Thread Name:Right Bottom Thread row:3 col:1 Number:4 time:0.7144887447357178
+Thread Name:Right Bottom Thread row:3 col:0 Number:3 time:0.6990067958831787
+Thread Name:Right Bottom Thread row:2 col:7 Number:3 time:0.6990067958831787
+Thread Name:Right Bottom Thread row:2 col:4 Number:5 time:0.6990067958831787
+Thread Name:Right Bottom Thread row:2 col:3 Number:6 time:0.6990067958831787
+Thread Name:Right Bottom Thread row:1 col:8 Number:4 time:0.6725032329559326
+Thread Name:Right Bottom Thread row:1 col:6 Number:8 time:0.6725032329559326
+Thread Name:Right Bottom Thread row:1 col:5 Number:7 time:0.6725032329559326
+Thread Name:Right Bottom Thread row:1 col:3 Number:1 time:0.6725032329559326
+Thread Name:Right Bottom Thread row:0 col:8 Number:2 time:0.6725032329559326
+Thread Name:Right Bottom Thread row:0 col:6 Number:7 time:0.6725032329559326
+Thread Name:Right Bottom Thread row:0 col:5 Number:3 time:0.6725032329559326
+Thread Name:Right Bottom Thread row:0 col:4 Number:4 time:0.6725032329559326
+Thread Name:Left Bottom Thread row:8 col:4 Number:1 time:1.0798468589782715
+Thread Name:Left Bottom Thread row:8 col:3 Number:8 time:1.0798468589782715
+Thread Name:Left Bottom Thread row:8 col:2 Number:2 time:1.0798468589782715
+Thread Name:Left Bottom Thread row:8 col:0 Number:7 time:1.0798468589782715
+Thread Name:Left Bottom Thread row:7 col:5 Number:5 time:1.0798468589782715
+Thread Name:Left Bottom Thread row:7 col:3 Number:2 time:1.0798468589782715
+Thread Name:Left Bottom Thread row:7 col:2 Number:9 time:1.0798468589782715
+Thread Name:Left Bottom Thread row:7 col:0 Number:4 time:1.0798468589782715
+Thread Name:Left Bottom Thread row:6 col:5 Number:4 time:1.0798468589782715
+Thread Name:Left Bottom Thread row:6 col:4 Number:7 time:1.0798468589782715
+Thread Name:Left Bottom Thread row:6 col:1 Number:8 time:1.0798468589782715
+Thread Name:Left Bottom Thread row:5 col:5 Number:2 time:1.0798468589782715
+Thread Name:Left Bottom Thread row:5 col:4 Number:9 time:1.0798468589782715
+Thread Name:Left Bottom Thread row:5 col:3 Number:6 time:1.0798468589782715
+Thread Name:Left Bottom Thread row:5 col:2 Number:4 time:1.0798468589782715
+Thread Name:Left Bottom Thread row:5 col:1 Number:7 time:1.0798468589782715
+Thread Name:Left Bottom Thread row:4 col:5 Number:7 time:1.0798468589782715
+Thread Name:Left Bottom Thread row:4 col:4 Number:8 time:1.0798468589782715
+Thread Name:Left Bottom Thread row:4 col:3 Number:3 time:1.0798468589782715
+Thread Name:Left Bottom Thread row:4 col:2 Number:1 time:1.0798468589782715
+Thread Name:Left Bottom Thread row:4 col:0 Number:2 time:1.0798468589782715
+Thread Name:Left Bottom Thread row:3 col:5 Number:1 time:1.0798468589782715
+Thread Name:Left Bottom Thread row:3 col:4 Number:5 time:1.0798468589782715
+Thread Name:Left Bottom Thread row:3 col:3 Number:4 time:1.0788099765777588
+Thread Name:Left Bottom Thread row:3 col:1 Number:9 time:1.0788099765777588
+Thread Name:Left Bottom Thread row:3 col:0 Number:3 time:1.0788099765777588
+Thread Name:Right Upper Thread row:5 col:8 Number:3 time:1.0925688743591309
+Thread Name:Right Upper Thread row:5 col:7 Number:9 time:1.0925688743591309
+Thread Name:Right Upper Thread row:5 col:5 Number:7 time:1.0925688743591309
+Thread Name:Right Upper Thread row:5 col:4 Number:2 time:1.0925688743591309
+Thread Name:Right Upper Thread row:5 col:3 Number:1 time:1.0925688743591309
+Thread Name:Right Upper Thread row:4 col:8 Number:7 time:1.0925688743591309
+Thread Name:Right Upper Thread row:4 col:6 Number:8 time:1.0925688743591309
+Thread Name:Right Upper Thread row:4 col:5 Number:9 time:1.0925688743591309
+Thread Name:Right Upper Thread row:4 col:4 Number:3 time:1.0925688743591309
+Thread Name:Right Upper Thread row:4 col:3 Number:4 time:1.0925688743591309
+Thread Name:Right Upper Thread row:3 col:7 Number:1 time:1.0925688743591309
+Thread Name:Right Upper Thread row:3 col:6 Number:4 time:1.0925688743591309
+Thread Name:Right Upper Thread row:3 col:5 Number:6 time:1.0925688743591309
+Thread Name:Right Upper Thread row:3 col:4 Number:8 time:1.0925688743591309
+Thread Name:Right Upper Thread row:3 col:3 Number:5 time:1.0925688743591309
+Thread Name:Right Upper Thread row:2 col:7 Number:4 time:1.0925688743591309
+Thread Name:Right Upper Thread row:2 col:4 Number:9 time:1.0925688743591309
+Thread Name:Right Upper Thread row:2 col:3 Number:3 time:1.0925688743591309
+Thread Name:Right Upper Thread row:1 col:8 Number:9 time:1.0915732383728027
+Thread Name:Right Upper Thread row:1 col:6 Number:6 time:1.0915732383728027
+Thread Name:Right Upper Thread row:1 col:5 Number:2 time:1.0915732383728027
+Thread Name:Right Upper Thread row:1 col:3 Number:7 time:1.0915732383728027
+Thread Name:Right Upper Thread row:0 col:8 Number:5 time:1.0915732383728027
+Thread Name:Right Upper Thread row:0 col:6 Number:1 time:1.0915732383728027
+Thread Name:Right Upper Thread row:0 col:5 Number:8 time:1.0915732383728027
+Thread Name:Right Upper Thread row:0 col:4 Number:4 time:1.0915732383728027
+Thread Name:Right Bottom Thread row:8 col:8 Number:5 time:1.1049776077270508
+Thread Name:Right Bottom Thread row:8 col:7 Number:1 time:1.1049776077270508
+Thread Name:Right Bottom Thread row:8 col:4 Number:6 time:1.1049776077270508
+Thread Name:Right Bottom Thread row:8 col:3 Number:3 time:1.1049776077270508
+Thread Name:Right Bottom Thread row:7 col:6 Number:6 time:1.1049776077270508
+Thread Name:Right Bottom Thread row:7 col:5 Number:1 time:1.1049776077270508
+Thread Name:Right Bottom Thread row:7 col:3 Number:2 time:1.1049776077270508
+Thread Name:Right Bottom Thread row:6 col:8 Number:3 time:1.1049776077270508
+Thread Name:Right Bottom Thread row:6 col:7 Number:9 time:1.1049776077270508
+Thread Name:Right Bottom Thread row:6 col:5 Number:5 time:1.1049776077270508
+Thread Name:Right Bottom Thread row:6 col:4 Number:8 time:1.1049776077270508
+Thread Name:Right Bottom Thread row:5 col:8 Number:1 time:1.1049776077270508
+Thread Name:Right Bottom Thread row:5 col:7 Number:4 time:1.1049776077270508
+Thread Name:Right Bottom Thread row:5 col:5 Number:6 time:1.1049776077270508
+Thread Name:Right Bottom Thread row:5 col:4 Number:3 time:1.1049776077270508
+Thread Name:Right Bottom Thread row:5 col:3 Number:8 time:1.1049776077270508
+Thread Name:Right Bottom Thread row:4 col:8 Number:7 time:1.1049776077270508
+Thread Name:Right Bottom Thread row:4 col:6 Number:3 time:1.1049776077270508
+Thread Name:Right Bottom Thread row:4 col:5 Number:9 time:1.1049776077270508
+Thread Name:Right Bottom Thread row:4 col:4 Number:1 time:1.1049776077270508
+Thread Name:Right Bottom Thread row:4 col:3 Number:4 time:1.1049776077270508
+Thread Name:Right Bottom Thread row:3 col:7 Number:8 time:1.1049776077270508
+Thread Name:Right Bottom Thread row:3 col:6 Number:9 time:1.1049776077270508
+Thread Name:Right Bottom Thread row:3 col:5 Number:2 time:1.1049776077270508
+Thread Name:Right Bottom Thread row:3 col:4 Number:7 time:1.1049776077270508
+Thread Name:Right Bottom Thread row:3 col:3 Number:5 time:1.1049776077270508
+Thread Name:Left Bottom Thread row:8 col:4 Number:1 time:1.5977578163146973
+Thread Name:Left Bottom Thread row:8 col:3 Number:8 time:1.5942165851593018
+Thread Name:Left Bottom Thread row:8 col:2 Number:2 time:1.5942165851593018
+Thread Name:Left Bottom Thread row:8 col:0 Number:7 time:1.5942165851593018
+Thread Name:Left Bottom Thread row:7 col:5 Number:5 time:1.5942165851593018
+Thread Name:Left Bottom Thread row:7 col:3 Number:2 time:1.5942165851593018
+Thread Name:Left Bottom Thread row:7 col:2 Number:9 time:1.5942165851593018
+Thread Name:Left Bottom Thread row:7 col:0 Number:4 time:1.5942165851593018
+Thread Name:Left Bottom Thread row:6 col:5 Number:4 time:1.5942165851593018
+Thread Name:Left Bottom Thread row:6 col:4 Number:7 time:1.5942165851593018
+Thread Name:Left Bottom Thread row:6 col:1 Number:8 time:1.5942165851593018
+Thread Name:Left Bottom Thread row:5 col:5 Number:2 time:1.5942165851593018
+Thread Name:Left Bottom Thread row:5 col:4 Number:9 time:1.5942165851593018
+Thread Name:Left Bottom Thread row:5 col:3 Number:6 time:1.5942165851593018
+Thread Name:Left Bottom Thread row:5 col:2 Number:4 time:1.5942165851593018
+Thread Name:Left Bottom Thread row:5 col:1 Number:7 time:1.5942165851593018
+Thread Name:Left Bottom Thread row:4 col:5 Number:7 time:1.5942165851593018
+Thread Name:Left Bottom Thread row:4 col:4 Number:8 time:1.5942165851593018
+Thread Name:Left Bottom Thread row:4 col:3 Number:3 time:1.5942165851593018
+Thread Name:Left Bottom Thread row:4 col:2 Number:1 time:1.5942165851593018
+Thread Name:Left Bottom Thread row:4 col:0 Number:2 time:1.5942165851593018
+Thread Name:Left Bottom Thread row:3 col:5 Number:1 time:1.5942165851593018
+Thread Name:Left Bottom Thread row:3 col:4 Number:5 time:1.5942165851593018
+Thread Name:Left Bottom Thread row:3 col:3 Number:4 time:1.5921738147735596
+Thread Name:Left Bottom Thread row:3 col:1 Number:9 time:1.5921738147735596
+Thread Name:Left Bottom Thread row:3 col:0 Number:3 time:1.5921738147735596
+Thread Name:Right Upper Thread row:5 col:8 Number:3 time:1.6167685985565186
+Thread Name:Right Upper Thread row:5 col:7 Number:9 time:1.6167685985565186
+Thread Name:Right Upper Thread row:5 col:5 Number:7 time:1.6167685985565186
+Thread Name:Right Upper Thread row:5 col:4 Number:2 time:1.6167685985565186
+Thread Name:Right Upper Thread row:5 col:3 Number:1 time:1.6167685985565186
+Thread Name:Right Upper Thread row:4 col:8 Number:7 time:1.6167685985565186
+Thread Name:Right Upper Thread row:4 col:6 Number:8 time:1.6167685985565186
+Thread Name:Right Upper Thread row:4 col:5 Number:9 time:1.6167685985565186
+Thread Name:Right Upper Thread row:4 col:4 Number:3 time:1.6167685985565186
+Thread Name:Right Upper Thread row:4 col:3 Number:4 time:1.6167685985565186
+Thread Name:Right Upper Thread row:3 col:7 Number:1 time:1.6167685985565186
+Thread Name:Right Upper Thread row:3 col:6 Number:4 time:1.6167685985565186
+Thread Name:Right Upper Thread row:3 col:5 Number:6 time:1.6167685985565186
+Thread Name:Right Upper Thread row:3 col:4 Number:8 time:1.6167685985565186
+Thread Name:Right Upper Thread row:3 col:3 Number:5 time:1.6167685985565186
+Thread Name:Right Upper Thread row:2 col:7 Number:4 time:1.61572265625
+Thread Name:Right Upper Thread row:2 col:4 Number:9 time:1.61572265625
+Thread Name:Right Upper Thread row:2 col:3 Number:3 time:1.61572265625
+Thread Name:Right Upper Thread row:1 col:8 Number:9 time:1.61572265625
+Thread Name:Right Upper Thread row:1 col:6 Number:6 time:1.61572265625
+Thread Name:Right Upper Thread row:1 col:5 Number:2 time:1.61572265625
+Thread Name:Right Upper Thread row:1 col:3 Number:7 time:1.61572265625
+Thread Name:Right Upper Thread row:0 col:8 Number:5 time:1.61572265625
+Thread Name:Right Upper Thread row:0 col:6 Number:1 time:1.61572265625
+Thread Name:Right Upper Thread row:0 col:5 Number:8 time:1.61572265625
+Thread Name:Right Upper Thread row:0 col:4 Number:4 time:1.61572265625
+Thread Name:Right Bottom Thread row:8 col:8 Number:5 time:1.6412584781646729
+Thread Name:Right Bottom Thread row:8 col:7 Number:1 time:1.6412584781646729
+Thread Name:Right Bottom Thread row:8 col:4 Number:6 time:1.6412584781646729
+Thread Name:Right Bottom Thread row:8 col:3 Number:3 time:1.6412584781646729
+Thread Name:Right Bottom Thread row:7 col:6 Number:6 time:1.6412584781646729
+Thread Name:Right Bottom Thread row:7 col:5 Number:1 time:1.6412584781646729
+Thread Name:Right Bottom Thread row:7 col:3 Number:2 time:1.6412584781646729
+Thread Name:Right Bottom Thread row:6 col:8 Number:3 time:1.6412584781646729
+Thread Name:Right Bottom Thread row:6 col:7 Number:9 time:1.6412584781646729
+Thread Name:Right Bottom Thread row:6 col:5 Number:5 time:1.6412584781646729
+Thread Name:Right Bottom Thread row:6 col:4 Number:8 time:1.6412584781646729
+Thread Name:Right Bottom Thread row:5 col:8 Number:1 time:1.6412584781646729
+Thread Name:Right Bottom Thread row:5 col:7 Number:4 time:1.6412584781646729
+Thread Name:Right Bottom Thread row:5 col:5 Number:6 time:1.6412584781646729
+Thread Name:Right Bottom Thread row:5 col:4 Number:3 time:1.6412584781646729
+Thread Name:Right Bottom Thread row:5 col:3 Number:8 time:1.6412584781646729
+Thread Name:Right Bottom Thread row:4 col:8 Number:7 time:1.6372020244598389
+Thread Name:Right Bottom Thread row:4 col:6 Number:3 time:1.6372020244598389
+Thread Name:Right Bottom Thread row:4 col:5 Number:9 time:1.6372020244598389
+Thread Name:Right Bottom Thread row:4 col:4 Number:1 time:1.6372020244598389
+Thread Name:Right Bottom Thread row:4 col:3 Number:4 time:1.6372020244598389
+Thread Name:Right Bottom Thread row:3 col:7 Number:8 time:1.6372020244598389
+Thread Name:Right Bottom Thread row:3 col:6 Number:9 time:1.6372020244598389
+Thread Name:Right Bottom Thread row:3 col:5 Number:2 time:1.6372020244598389
+Thread Name:Right Bottom Thread row:3 col:4 Number:7 time:1.6372020244598389
+Thread Name:Right Bottom Thread row:3 col:3 Number:5 time:1.6372020244598389
+Thread Name:Left Bottom Thread row:8 col:4 Number:1 time:2.031240463256836
+Thread Name:Left Bottom Thread row:8 col:3 Number:8 time:2.031240463256836
+Thread Name:Left Bottom Thread row:8 col:2 Number:2 time:2.031240463256836
+Thread Name:Left Bottom Thread row:8 col:0 Number:7 time:2.031240463256836
+Thread Name:Left Bottom Thread row:7 col:5 Number:5 time:2.031240463256836
+Thread Name:Left Bottom Thread row:7 col:3 Number:2 time:2.031240463256836
+Thread Name:Left Bottom Thread row:7 col:2 Number:9 time:2.031240463256836
+Thread Name:Left Bottom Thread row:7 col:0 Number:4 time:2.031240463256836
+Thread Name:Left Bottom Thread row:6 col:5 Number:4 time:2.031240463256836
+Thread Name:Left Bottom Thread row:6 col:4 Number:7 time:2.031240463256836
+Thread Name:Left Bottom Thread row:6 col:1 Number:8 time:2.031240463256836
+Thread Name:Left Bottom Thread row:5 col:5 Number:2 time:2.031240463256836
+Thread Name:Left Bottom Thread row:5 col:4 Number:9 time:2.031240463256836
+Thread Name:Left Bottom Thread row:5 col:3 Number:6 time:2.031240463256836
+Thread Name:Left Bottom Thread row:5 col:2 Number:4 time:2.031240463256836
+Thread Name:Left Bottom Thread row:5 col:1 Number:7 time:2.031240463256836
+Thread Name:Left Bottom Thread row:4 col:5 Number:7 time:2.031240463256836
+Thread Name:Left Bottom Thread row:4 col:4 Number:8 time:2.031240463256836
+Thread Name:Left Bottom Thread row:4 col:3 Number:3 time:2.031240463256836
+Thread Name:Left Bottom Thread row:4 col:2 Number:1 time:2.031240463256836
+Thread Name:Left Bottom Thread row:4 col:0 Number:2 time:2.031240463256836
+Thread Name:Left Bottom Thread row:3 col:5 Number:1 time:2.031240463256836
+Thread Name:Left Bottom Thread row:3 col:4 Number:5 time:2.031240463256836
+Thread Name:Left Bottom Thread row:3 col:3 Number:4 time:2.0302088260650635
+Thread Name:Left Bottom Thread row:3 col:1 Number:9 time:2.0302088260650635
+Thread Name:Left Bottom Thread row:3 col:0 Number:3 time:2.0154566764831543
+Thread Name:Right Upper Thread row:5 col:8 Number:3 time:2.0554420948028564
+Thread Name:Right Upper Thread row:5 col:7 Number:9 time:2.0554420948028564
+Thread Name:Right Upper Thread row:5 col:5 Number:7 time:2.0554420948028564
+Thread Name:Right Upper Thread row:5 col:4 Number:2 time:2.0554420948028564
+Thread Name:Right Upper Thread row:5 col:3 Number:1 time:2.0554420948028564
+Thread Name:Right Upper Thread row:4 col:8 Number:7 time:2.0554420948028564
+Thread Name:Right Upper Thread row:4 col:6 Number:8 time:2.0554420948028564
+Thread Name:Right Upper Thread row:4 col:5 Number:9 time:2.0554420948028564
+Thread Name:Right Upper Thread row:4 col:4 Number:3 time:2.0554420948028564
+Thread Name:Right Upper Thread row:4 col:3 Number:4 time:2.0554420948028564
+Thread Name:Right Upper Thread row:3 col:7 Number:1 time:2.0554420948028564
+Thread Name:Right Upper Thread row:3 col:6 Number:4 time:2.0554420948028564
+Thread Name:Right Upper Thread row:3 col:5 Number:6 time:2.0554420948028564
+Thread Name:Right Upper Thread row:3 col:4 Number:8 time:2.0554420948028564
+Thread Name:Right Upper Thread row:3 col:3 Number:5 time:2.0554420948028564
+Thread Name:Right Upper Thread row:2 col:7 Number:4 time:2.0543947219848633
+Thread Name:Right Upper Thread row:2 col:4 Number:9 time:2.0543947219848633
+Thread Name:Right Upper Thread row:2 col:3 Number:3 time:2.0543947219848633
+Thread Name:Right Upper Thread row:1 col:8 Number:9 time:2.0543947219848633
+Thread Name:Right Upper Thread row:1 col:6 Number:6 time:2.0543947219848633
+Thread Name:Right Upper Thread row:1 col:5 Number:2 time:2.0543947219848633
+Thread Name:Right Upper Thread row:1 col:3 Number:7 time:2.0543947219848633
+Thread Name:Right Upper Thread row:0 col:8 Number:5 time:2.0543947219848633
+Thread Name:Right Upper Thread row:0 col:6 Number:1 time:2.0543947219848633
+Thread Name:Right Upper Thread row:0 col:5 Number:8 time:2.0543947219848633
+Thread Name:Right Upper Thread row:0 col:4 Number:4 time:2.0543947219848633
+Thread Name:Right Bottom Thread row:8 col:8 Number:5 time:2.0760624408721924
+Thread Name:Right Bottom Thread row:8 col:7 Number:1 time:2.0760624408721924
+Thread Name:Right Bottom Thread row:8 col:4 Number:6 time:2.0760624408721924
+Thread Name:Right Bottom Thread row:8 col:3 Number:3 time:2.0760624408721924
+Thread Name:Right Bottom Thread row:7 col:6 Number:6 time:2.0760624408721924
+Thread Name:Right Bottom Thread row:7 col:5 Number:1 time:2.0760624408721924
+Thread Name:Right Bottom Thread row:7 col:3 Number:2 time:2.0760624408721924
+Thread Name:Right Bottom Thread row:6 col:8 Number:3 time:2.0760624408721924
+Thread Name:Right Bottom Thread row:6 col:7 Number:9 time:2.0760624408721924
+Thread Name:Right Bottom Thread row:6 col:5 Number:5 time:2.0760624408721924
+Thread Name:Right Bottom Thread row:6 col:4 Number:8 time:2.0760624408721924
+Thread Name:Right Bottom Thread row:5 col:8 Number:1 time:2.0760624408721924
+Thread Name:Right Bottom Thread row:5 col:7 Number:4 time:2.0760624408721924
+Thread Name:Right Bottom Thread row:5 col:5 Number:6 time:2.0760624408721924
+Thread Name:Right Bottom Thread row:5 col:4 Number:3 time:2.0760624408721924
+Thread Name:Right Bottom Thread row:5 col:3 Number:8 time:2.0760624408721924
+Thread Name:Right Bottom Thread row:4 col:8 Number:7 time:2.0760624408721924
+Thread Name:Right Bottom Thread row:4 col:6 Number:3 time:2.0760624408721924
+Thread Name:Right Bottom Thread row:4 col:5 Number:9 time:2.0760624408721924
+Thread Name:Right Bottom Thread row:4 col:4 Number:1 time:2.0760624408721924
+Thread Name:Right Bottom Thread row:4 col:3 Number:4 time:2.0760624408721924
+Thread Name:Right Bottom Thread row:3 col:7 Number:8 time:2.0760624408721924
+Thread Name:Right Bottom Thread row:3 col:6 Number:9 time:2.0760624408721924
+Thread Name:Right Bottom Thread row:3 col:5 Number:2 time:2.0760624408721924
+Thread Name:Right Bottom Thread row:3 col:4 Number:7 time:2.0760624408721924
+Thread Name:Right Bottom Thread row:3 col:3 Number:5 time:2.0760624408721924
+Thread Name:Center Thread row:6 col:7 Number:4 time:2.166374444961548
+Thread Name:Center Thread row:6 col:8 Number:1 time:2.166374444961548
+Thread Name:Center Thread row:6 col:9 Number:8 time:2.3555078506469727
+Thread Name:Center Thread row:6 col:10 Number:2 time:2.3555078506469727
+Thread Name:Center Thread row:6 col:11 Number:3 time:2.3555078506469727
+Thread Name:Center Thread row:6 col:13 Number:9 time:2.3555078506469727
+Thread Name:Center Thread row:7 col:6 Number:2 time:2.3555078506469727
+Thread Name:Center Thread row:7 col:9 Number:9 time:2.4484121799468994
+Thread Name:Center Thread row:7 col:10 Number:6 time:2.4484121799468994
+Thread Name:Center Thread row:7 col:11 Number:7 time:2.4484121799468994
+Thread Name:Center Thread row:7 col:12 Number:3 time:2.4484121799468994
+Thread Name:Center Thread row:7 col:14 Number:4 time:2.4484121799468994
+Thread Name:Center Thread row:8 col:7 Number:3 time:2.4484121799468994
+Thread Name:Center Thread row:8 col:8 Number:9 time:2.4484121799468994
+Thread Name:Center Thread row:8 col:9 Number:5 time:2.4484121799468994
+Thread Name:Center Thread row:8 col:11 Number:4 time:2.4484121799468994
+Thread Name:Center Thread row:8 col:12 Number:8 time:2.4484121799468994
+Thread Name:Center Thread row:8 col:14 Number:7 time:2.4484121799468994
+Thread Name:Center Thread row:9 col:6 Number:3 time:2.4674065113067627
+Thread Name:Center Thread row:9 col:7 Number:9 time:2.4674065113067627
+Thread Name:Center Thread row:9 col:8 Number:2 time:2.4674065113067627
+Thread Name:Center Thread row:9 col:10 Number:7 time:2.4674065113067627
+Thread Name:Center Thread row:9 col:12 Number:5 time:2.4674065113067627
+Thread Name:Center Thread row:9 col:13 Number:8 time:2.4674065113067627
+Thread Name:Center Thread row:9 col:14 Number:1 time:2.4674065113067627
+Thread Name:Center Thread row:10 col:6 Number:8 time:2.4674065113067627
+Thread Name:Center Thread row:10 col:7 Number:7 time:2.4674065113067627
+Thread Name:Center Thread row:10 col:9 Number:3 time:2.4674065113067627
+Thread Name:Center Thread row:10 col:11 Number:1 time:2.4674065113067627
+Thread Name:Center Thread row:10 col:13 Number:4 time:2.4674065113067627
+Thread Name:Center Thread row:10 col:14 Number:9 time:2.4674065113067627
+Thread Name:Center Thread row:11 col:6 Number:5 time:2.4674065113067627
+Thread Name:Center Thread row:11 col:7 Number:1 time:2.4674065113067627
+Thread Name:Center Thread row:11 col:8 Number:4 time:2.4674065113067627
+Thread Name:Center Thread row:11 col:10 Number:9 time:2.4674065113067627
+Thread Name:Center Thread row:11 col:12 Number:7 time:2.4674065113067627
+Thread Name:Center Thread row:11 col:13 Number:3 time:2.4674065113067627
+Thread Name:Center Thread row:11 col:14 Number:6 time:2.4674065113067627
+Thread Name:Center Thread row:12 col:6 Number:4 time:2.4674065113067627
+Thread Name:Center Thread row:12 col:8 Number:7 time:2.4674065113067627
+Thread Name:Center Thread row:12 col:9 Number:6 time:2.4674065113067627
+Thread Name:Center Thread row:12 col:11 Number:9 time:2.4674065113067627
+Thread Name:Center Thread row:12 col:12 Number:1 time:2.4674065113067627
+Thread Name:Center Thread row:12 col:13 Number:5 time:2.4674065113067627
+Thread Name:Center Thread row:13 col:6 Number:1 time:2.4674065113067627
+Thread Name:Center Thread row:13 col:8 Number:8 time:2.4674065113067627
+Thread Name:Center Thread row:13 col:9 Number:7 time:2.4674065113067627
+Thread Name:Center Thread row:13 col:10 Number:4 time:2.4674065113067627
+Thread Name:Center Thread row:13 col:11 Number:2 time:2.4674065113067627
+Thread Name:Center Thread row:13 col:14 Number:3 time:2.4674065113067627
+Thread Name:Center Thread row:14 col:7 Number:6 time:2.4674065113067627
+Thread Name:Center Thread row:14 col:9 Number:1 time:2.4674065113067627
+Thread Name:Center Thread row:14 col:10 Number:8 time:2.4674065113067627
+Thread Name:Center Thread row:14 col:11 Number:5 time:2.4674065113067627
+Thread Name:Center Thread row:14 col:12 Number:4 time:2.4674065113067627
+Thread Name:Center Thread row:14 col:13 Number:7 time:2.4674065113067627
+Thread Name:Left Upper Thread row:8 col:4 Number:8 time:2.466083288192749
+Thread Name:Left Upper Thread row:8 col:3 Number:1 time:2.466083288192749
+Thread Name:Left Upper Thread row:8 col:2 Number:4 time:2.46508526802063
+Thread Name:Left Upper Thread row:8 col:0 Number:7 time:2.46508526802063
+Thread Name:Left Upper Thread row:7 col:5 Number:7 time:2.46508526802063
+Thread Name:Left Upper Thread row:7 col:3 Number:4 time:2.46508526802063
+Thread Name:Left Upper Thread row:7 col:2 Number:9 time:2.46508526802063
+Thread Name:Left Upper Thread row:7 col:0 Number:6 time:2.46508526802063
+Thread Name:Left Upper Thread row:6 col:5 Number:6 time:2.46508526802063
+Thread Name:Left Upper Thread row:6 col:4 Number:2 time:2.46508526802063
+Thread Name:Left Upper Thread row:6 col:1 Number:3 time:2.46508526802063
+Thread Name:Left Upper Thread row:5 col:8 Number:4 time:2.46508526802063
+Thread Name:Left Upper Thread row:5 col:7 Number:6 time:2.46508526802063
+Thread Name:Left Upper Thread row:5 col:5 Number:9 time:2.46508526802063
+Thread Name:Left Upper Thread row:5 col:4 Number:7 time:2.46508526802063
+Thread Name:Left Upper Thread row:5 col:3 Number:8 time:2.46508526802063
+Thread Name:Left Upper Thread row:5 col:2 Number:1 time:2.46508526802063
+Thread Name:Left Upper Thread row:5 col:1 Number:5 time:2.46508526802063
+Thread Name:Left Upper Thread row:4 col:8 Number:2 time:2.46508526802063
+Thread Name:Left Upper Thread row:4 col:6 Number:5 time:2.46508526802063
+Thread Name:Left Upper Thread row:4 col:5 Number:1 time:2.46508526802063
+Thread Name:Left Upper Thread row:4 col:4 Number:4 time:2.46508526802063
+Thread Name:Left Upper Thread row:4 col:3 Number:6 time:2.46508526802063
+Thread Name:Left Upper Thread row:4 col:2 Number:3 time:2.464069366455078
+Thread Name:Left Upper Thread row:4 col:0 Number:8 time:2.400055170059204
+Thread Name:Left Upper Thread row:3 col:7 Number:7 time:2.400055170059204
+Thread Name:Left Upper Thread row:3 col:6 Number:1 time:2.400055170059204
+Thread Name:Left Upper Thread row:3 col:5 Number:2 time:2.400055170059204
+Thread Name:Left Upper Thread row:3 col:4 Number:5 time:2.400055170059204
+Thread Name:Left Upper Thread row:3 col:3 Number:3 time:2.400055170059204
+Thread Name:Left Upper Thread row:3 col:1 Number:4 time:2.400055170059204
+Thread Name:Left Upper Thread row:3 col:0 Number:9 time:2.400055170059204
+Thread Name:Left Upper Thread row:2 col:7 Number:5 time:2.400055170059204
+Thread Name:Left Upper Thread row:2 col:4 Number:1 time:2.400055170059204
+Thread Name:Left Upper Thread row:2 col:3 Number:2 time:2.400055170059204
+Thread Name:Left Upper Thread row:2 col:1 Number:8 time:2.2838802337646484
+Thread Name:Left Upper Thread row:2 col:0 Number:3 time:2.2838802337646484
+Thread Name:Left Upper Thread row:1 col:8 Number:7 time:2.2838802337646484
+Thread Name:Left Upper Thread row:1 col:6 Number:8 time:2.2838802337646484
+Thread Name:Left Upper Thread row:1 col:5 Number:3 time:2.2838802337646484
+Thread Name:Left Upper Thread row:1 col:3 Number:5 time:2.2838802337646484
+Thread Name:Left Upper Thread row:1 col:2 Number:2 time:2.2838802337646484
+Thread Name:Left Upper Thread row:0 col:8 Number:3 time:2.2838802337646484
+Thread Name:Left Upper Thread row:0 col:6 Number:4 time:2.2838802337646484
+Thread Name:Left Upper Thread row:0 col:5 Number:8 time:2.2838802337646484
+Thread Name:Left Upper Thread row:0 col:4 Number:9 time:2.2838802337646484
+Thread Name:Left Upper Thread row:0 col:1 Number:6 time:2.1319334506988525
+Thread Name:Left Upper Thread row:0 col:0 Number:1 time:2.1319334506988525
+Thread Name:Left Bottom Thread row:8 col:4 Number:1 time:2.4931082725524902
+Thread Name:Left Bottom Thread row:8 col:3 Number:8 time:2.4931082725524902
+Thread Name:Left Bottom Thread row:8 col:2 Number:2 time:2.4931082725524902
+Thread Name:Left Bottom Thread row:8 col:0 Number:7 time:2.4931082725524902
+Thread Name:Left Bottom Thread row:7 col:5 Number:5 time:2.4931082725524902
+Thread Name:Left Bottom Thread row:7 col:3 Number:2 time:2.4931082725524902
+Thread Name:Left Bottom Thread row:7 col:2 Number:9 time:2.4931082725524902
+Thread Name:Left Bottom Thread row:7 col:0 Number:4 time:2.4931082725524902
+Thread Name:Left Bottom Thread row:6 col:5 Number:4 time:2.4931082725524902
+Thread Name:Left Bottom Thread row:6 col:4 Number:7 time:2.4931082725524902
+Thread Name:Left Bottom Thread row:6 col:1 Number:8 time:2.4931082725524902
+Thread Name:Left Bottom Thread row:5 col:5 Number:2 time:2.4931082725524902
+Thread Name:Left Bottom Thread row:5 col:4 Number:9 time:2.4931082725524902
+Thread Name:Left Bottom Thread row:5 col:3 Number:6 time:2.4931082725524902
+Thread Name:Left Bottom Thread row:5 col:2 Number:4 time:2.4931082725524902
+Thread Name:Left Bottom Thread row:5 col:1 Number:7 time:2.4931082725524902
+Thread Name:Left Bottom Thread row:4 col:5 Number:7 time:2.4931082725524902
+Thread Name:Left Bottom Thread row:4 col:4 Number:8 time:2.4931082725524902
+Thread Name:Left Bottom Thread row:4 col:3 Number:3 time:2.4931082725524902
+Thread Name:Left Bottom Thread row:4 col:2 Number:1 time:2.4931082725524902
+Thread Name:Left Bottom Thread row:4 col:0 Number:2 time:2.4931082725524902
+Thread Name:Left Bottom Thread row:3 col:5 Number:1 time:2.4931082725524902
+Thread Name:Left Bottom Thread row:3 col:4 Number:5 time:2.4931082725524902
+Thread Name:Left Bottom Thread row:3 col:3 Number:4 time:2.4910850524902344
+Thread Name:Left Bottom Thread row:3 col:1 Number:9 time:2.4910850524902344
+Thread Name:Left Bottom Thread row:3 col:0 Number:3 time:2.4910850524902344
+Thread Name:Right Upper Thread row:5 col:8 Number:3 time:2.504974603652954
+Thread Name:Right Upper Thread row:5 col:7 Number:9 time:2.504974603652954
+Thread Name:Right Upper Thread row:5 col:5 Number:7 time:2.504974603652954
+Thread Name:Right Upper Thread row:5 col:4 Number:2 time:2.504974603652954
+Thread Name:Right Upper Thread row:5 col:3 Number:1 time:2.5039780139923096
+Thread Name:Right Upper Thread row:4 col:8 Number:7 time:2.5039780139923096
+Thread Name:Right Upper Thread row:4 col:6 Number:8 time:2.5039780139923096
+Thread Name:Right Upper Thread row:4 col:5 Number:9 time:2.5039780139923096
+Thread Name:Right Upper Thread row:4 col:4 Number:3 time:2.5039780139923096
+Thread Name:Right Upper Thread row:4 col:3 Number:4 time:2.5039780139923096
+Thread Name:Right Upper Thread row:3 col:7 Number:1 time:2.5039780139923096
+Thread Name:Right Upper Thread row:3 col:6 Number:4 time:2.5039780139923096
+Thread Name:Right Upper Thread row:3 col:5 Number:6 time:2.5039780139923096
+Thread Name:Right Upper Thread row:3 col:4 Number:8 time:2.5039780139923096
+Thread Name:Right Upper Thread row:3 col:3 Number:5 time:2.5039780139923096
+Thread Name:Right Upper Thread row:2 col:7 Number:4 time:2.5039780139923096
+Thread Name:Right Upper Thread row:2 col:4 Number:9 time:2.5039780139923096
+Thread Name:Right Upper Thread row:2 col:3 Number:3 time:2.5039780139923096
+Thread Name:Right Upper Thread row:1 col:8 Number:9 time:2.5039780139923096
+Thread Name:Right Upper Thread row:1 col:6 Number:6 time:2.5039780139923096
+Thread Name:Right Upper Thread row:1 col:5 Number:2 time:2.5029795169830322
+Thread Name:Right Upper Thread row:1 col:3 Number:7 time:2.5029795169830322
+Thread Name:Right Upper Thread row:0 col:8 Number:5 time:2.5029795169830322
+Thread Name:Right Upper Thread row:0 col:6 Number:1 time:2.5029795169830322
+Thread Name:Right Upper Thread row:0 col:5 Number:8 time:2.5029795169830322
+Thread Name:Right Upper Thread row:0 col:4 Number:4 time:2.5029795169830322
+Thread Name:Right Bottom Thread row:8 col:8 Number:5 time:2.5144546031951904
+Thread Name:Right Bottom Thread row:8 col:7 Number:1 time:2.5144546031951904
+Thread Name:Right Bottom Thread row:8 col:4 Number:6 time:2.5144546031951904
+Thread Name:Right Bottom Thread row:8 col:3 Number:3 time:2.5144546031951904
+Thread Name:Right Bottom Thread row:7 col:6 Number:6 time:2.5144546031951904
+Thread Name:Right Bottom Thread row:7 col:5 Number:1 time:2.5144546031951904
+Thread Name:Right Bottom Thread row:7 col:3 Number:2 time:2.5144546031951904
+Thread Name:Right Bottom Thread row:6 col:8 Number:3 time:2.5144546031951904
+Thread Name:Right Bottom Thread row:6 col:7 Number:9 time:2.5144546031951904
+Thread Name:Right Bottom Thread row:6 col:5 Number:5 time:2.5144546031951904
+Thread Name:Right Bottom Thread row:6 col:4 Number:8 time:2.5144546031951904
+Thread Name:Right Bottom Thread row:5 col:8 Number:1 time:2.5144546031951904
+Thread Name:Right Bottom Thread row:5 col:7 Number:4 time:2.5144546031951904
+Thread Name:Right Bottom Thread row:5 col:5 Number:6 time:2.5144546031951904
+Thread Name:Right Bottom Thread row:5 col:4 Number:3 time:2.5144546031951904
+Thread Name:Right Bottom Thread row:5 col:3 Number:8 time:2.5144546031951904
+Thread Name:Right Bottom Thread row:4 col:8 Number:7 time:2.5144546031951904
+Thread Name:Right Bottom Thread row:4 col:6 Number:3 time:2.5144546031951904
+Thread Name:Right Bottom Thread row:4 col:5 Number:9 time:2.5144546031951904
+Thread Name:Right Bottom Thread row:4 col:4 Number:1 time:2.5144546031951904
+Thread Name:Right Bottom Thread row:4 col:3 Number:4 time:2.5144546031951904
+Thread Name:Right Bottom Thread row:3 col:7 Number:8 time:2.5144546031951904
+Thread Name:Right Bottom Thread row:3 col:6 Number:9 time:2.5144546031951904
+Thread Name:Right Bottom Thread row:3 col:5 Number:2 time:2.5144546031951904
+Thread Name:Right Bottom Thread row:3 col:4 Number:7 time:2.5144546031951904
+Thread Name:Right Bottom Thread row:3 col:3 Number:5 time:2.5144546031951904
